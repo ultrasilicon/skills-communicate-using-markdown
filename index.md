@@ -2,6 +2,10 @@
 
 ## sub 1
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## sub 2
 
 ### subsub1
@@ -12,3 +16,5 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
